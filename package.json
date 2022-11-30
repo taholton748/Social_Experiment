@@ -1,0 +1,25 @@
+{
+  "name": "social_experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taholton748/Social_Experiment.git"
+  },
+  "author": "Tyler Holton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taholton748/Social_Experiment/issues"
+  },
+  "homepage": "https://github.com/taholton748/Social_Experiment#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.12.1",
+    "mongoose": "^6.7.4",
+    "nosql": "^6.1.0"
+  }
+}
