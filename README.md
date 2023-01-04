@@ -16,7 +16,8 @@
   Clone this repository to your local machine. Install Insomnia to test API routes. Installation of certain dependencies are required, so the user will need to run  ```npm install``` <hr>
 
   ## Usage
-  Once installation is done, navigate to Insomnia to test desired API routes. You will be able to test POST, PUT, and DELETE routes in Insomnia for users, thoughts, reactions, and friends within the social media application as seen here. <hr>
+  Once installation is done, navigate to Insomnia to test desired API routes. You will be able to test POST, PUT, and DELETE routes in Insomnia for users, thoughts, reactions, and friends within the social media application as seen [here](https://drive.google.com/file/d/1LKqraboR3YLu6XGtpO7eRitUGQw6wXEr/view) in the video walkthrough. <hr>
+  
 
   ## Contributing
   Contact for any major changes or contributions. <hr>
